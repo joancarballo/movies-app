@@ -16,7 +16,6 @@ const InputMoviesForm = ({ movies }) => {
   };
   console.log("Movie State ####################");
   console.log(movieState);
-  console.log(movies);
 
   return (
     <>
